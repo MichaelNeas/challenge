@@ -10,5 +10,3 @@
   - [ ] Notifications set periodic
   - [ ] Awards
   - [ ] Each day task list gets their own checkmark
-
-=)
