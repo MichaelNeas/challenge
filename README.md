@@ -1,5 +1,5 @@
 # Challenger
-## Android application to set challenges for yourself
+## iOS application to set challenges for yourself
 
   1. X days I want to do a,b,c each day 
   2. I want to do accomplish 1,2,3 by day X.
